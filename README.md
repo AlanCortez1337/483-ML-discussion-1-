@@ -1,2 +1,3 @@
-# 483-ML-discussion-1-
-This was for a discussion board assignment to see how the scatterplot would change based on setting bounds
+## CPSC 483 Machine Learning
+
+These files are for CPSC 483 discussion boards. Each file is a discussion board.
